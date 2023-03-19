@@ -1,8 +1,9 @@
 # particle_base
 ## run comand
+``` sh
 icoUncoupledKinematicParcelFoam
 foamToVTK
-
+```
 # Paraview
 - 「.foam」の空ファイルの読み込み
 - 「VTK/lagrangian/kinematicCloud/kinematicCloud_*」の読み込み
