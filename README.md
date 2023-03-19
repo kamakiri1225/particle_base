@@ -4,6 +4,8 @@ icoUncoupledKinematicParcelFoam
 foamToVTK
 
 # Paraview
-- u.foamv‚Ì‹óƒtƒ@ƒCƒ‹‚Ì“Ç‚Ýž‚Ý
-- uVTK/lagrangian/kinematicCloud/kinematicCloud_*v‚Ì“Ç‚Ýž‚Ý
-- Glyph>Glyph Type‚ðSphere
+- ã€Œ.foamã€ã®ç©ºãƒ•ã‚¡ã‚¤ãƒ«ã®èª­ã¿è¾¼ã¿
+- ã€ŒVTK/lagrangian/kinematicCloud/kinematicCloud_*ã€ã®èª­ã¿è¾¼ã¿
+- Glyph>Glyph Typeã‚’Sphere
+
+![ani](https://user-images.githubusercontent.com/36812492/226147413-904f94ed-75ce-4b49-aad0-2274df31a646.gif)
